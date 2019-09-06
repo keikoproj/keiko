@@ -18,17 +18,17 @@ Keiko solves the following common problems faced when running and managing Kuber
 * How do I do forensic dumps?
 
 ## Keiko Components
-* [Instance-manager] (https://github.com/keikoproj/instance-manager)
-* [Upgrade-manager] (https://github.com/keikoproj/upgrade-manager)
-* [Addon-manager] (https://github.com/keikoproj/addon-manager)
-* [Governor] (https://github.com/keikoproj/governor)
-* [Minion-manager] (https://github.com/keikoproj/minion-manager)
-* [Kube-forensics] (https://github.com/keikoproj/kube-forensics)
-* [Active-monitor] (https://github.com/keikoproj/active-monitor)
+* [Instance-manager](https://github.com/keikoproj/instance-manager)
+* [Upgrade-manager](https://github.com/keikoproj/upgrade-manager)
+* [Addon-manager](https://github.com/keikoproj/addon-manager)
+* [Governor](https://github.com/keikoproj/governor)
+* [Minion-manager](https://github.com/keikoproj/minion-manager)
+* [Kube-forensics](https://github.com/keikoproj/kube-forensics)
+* [Active-monitor](https://github.com/keikoproj/active-monitor)
 
 ## Presentations
 * [CNCF End User Sig](https://github.com/keikoproj/keiko/blob/master/presentations/Keiko.pdf)
 
 ## Resources
-* [Keiko Slack] (https://join.slack.com/t/orkaproj/shared_invite/enQtNzM3MTM1MDA5MjcxLWU4NTc5Nzc5OTVjOWI1NzA5NWNmNGExMDBmNjU2MDE1ZmZiOGU3ZGZkYmY0N2UzMzQ5MDEyMzQwY2UyMjdhOGI)
-* [@keikoproj] (https://twitter.com/KeikoProj)
+* [Keiko Slack](https://join.slack.com/t/orkaproj/shared_invite/enQtNzM3MTM1MDA5MjcxLWU4NTc5Nzc5OTVjOWI1NzA5NWNmNGExMDBmNjU2MDE1ZmZiOGU3ZGZkYmY0N2UzMzQ5MDEyMzQwY2UyMjdhOGI)
+* [@keikoproj](https://twitter.com/KeikoProj)
