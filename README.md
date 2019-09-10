@@ -3,6 +3,8 @@
 ![Keiko Image](Keiko-Final-Small.png)
 
 
+*Read this in other languages: [简体中文](README.zh-cn.md).*
+
 ## What is Keiko?
 
 Keiko is a set of independent open source declarative tools for orchestration and management of multi-tenant, reliable, secure and efficient Kubernetes clusters in production.
