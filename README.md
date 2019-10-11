@@ -28,8 +28,9 @@ Keiko solves the following common problems faced when running and managing Kuber
 * [Kube-forensics](https://github.com/keikoproj/kube-forensics)
 * [Active-monitor](https://github.com/keikoproj/active-monitor)
 
-## Presentations
+## Community Blogs and Presentations
 * [CNCF End User Sig](https://github.com/keikoproj/keiko/blob/master/presentations/Keiko.pdf)
+* [AWS Community Day](https://www.youtube.com/watch?v=kdSE8r7uzXc&feature=youtu.be&t=1)
 
 ## Resources
 * [Keiko Slack](https://join.slack.com/t/orkaproj/shared_invite/enQtNzM3MTM1MDA5MjcxLWU4NTc5Nzc5OTVjOWI1NzA5NWNmNGExMDBmNjU2MDE1ZmZiOGU3ZGZkYmY0N2UzMzQ5MDEyMzQwY2UyMjdhOGI)
