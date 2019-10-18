@@ -24,6 +24,7 @@ Keiko solves the following common problems faced when running and managing Kuber
 * [Upgrade-manager](https://github.com/keikoproj/upgrade-manager)
 * [Addon-manager](https://github.com/keikoproj/addon-manager)
 * [Governor](https://github.com/keikoproj/governor)
+* [Lifecycle-Manager](https://github.com/keikoproj/lifecycle-manager)
 * [Minion-manager](https://github.com/keikoproj/minion-manager)
 * [Kube-forensics](https://github.com/keikoproj/kube-forensics)
 * [Active-monitor](https://github.com/keikoproj/active-monitor)
