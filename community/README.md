@@ -24,7 +24,7 @@ manner.
 
 ## Contributing to Keiko
 
-Read and abide by the [Keiko Code of Conduct](https://github.com/keikoproj/community/blob/master/CODE_OF_CONDUCT.md).
+Read and abide by the [Keiko Code of Conduct](https://github.com/keikoproj/keiko/blob/master/community/CODE_OF_CONDUCT.md).
 
-Contributors will be asked to read and sign a [CLA](https://github.com/keikoproj/community/blob/master/community/keiko%20Individual%20CLA.pdf). This agreement gives us permission to use and redistribute your contributions as part of the Keiko Project and protects the users and contributors of the project.
+Contributors will be asked to read and sign a [CLA](https://github.com/keikoproj/keiko/blob/master/community/Keiko%20Individual%20CLA.pdf). This agreement gives us permission to use and redistribute your contributions as part of the Keiko Project and protects the users and contributors of the project.
 
