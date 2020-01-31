@@ -32,7 +32,7 @@ Keiko solves the following common problems faced when running and managing Kuber
 ## Who uses Keiko?
 As the Keiko Community grows, we'd like to keep track of our users. Please send a PR with your organization name.
 
-Currently **officially** using Argo:
+Currently **officially** using Keiko:
 
 1. [Intuit](https://www.intuit.com/)
 
