@@ -2,8 +2,19 @@
 
 ![Keiko Image](Keiko-Final-Small.png)
 
-
 *Read this in other languages: [简体中文](README.zh-cn.md).*
+
+## News
+
+Keiko Project is moving from CLA to DCO as a simpler way to track contributions.
+* https://github.com/apps/dco/
+
+Please start signing off your contributions by doing ONE of the following:
+* Use `git commit -s ...` with each commit to add the signoff or
+* Manually add a `Signed-off-by: Your Name <your.email@example.com>` to each commit message.
+
+The email address must match your primary GitHub email. You do NOT need cryptographic (e.g. gpg) signing.
+* Use `git commit -s --amend ...` to add a signoff to the latest commit, if you forgot.
 
 ## What is Keiko?
 
