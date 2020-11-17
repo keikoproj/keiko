@@ -42,6 +42,12 @@ Keiko solves the following common problems faced when running and managing Kuber
 * [Kube-forensics](https://github.com/keikoproj/kube-forensics)
 * [Active-monitor](https://github.com/keikoproj/active-monitor)
 
+## Demos
+
+* Instance-manager demo
+
+[![Instance-Manager](http://img.youtube.com/vi/-HZokimmSxQ/0.jpg)](https://www.youtube.com/watch?v=-HZokimmSxQ "instance-manager demo")
+  
 ## Who uses Keiko?
 As the Keiko Community grows, we'd like to keep track of our users. Please send a PR with your organization name.
 
