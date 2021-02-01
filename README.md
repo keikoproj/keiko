@@ -54,7 +54,7 @@ As the Keiko Community grows, we'd like to keep track of our users. Please send 
 Currently **officially** using Keiko:
 
 1. [Intuit](https://www.intuit.com/)
-
+2. [LegalZoom](https://legalzoom.com)
 ## Community Blogs and Presentations
 * [CNCF End User Sig](https://github.com/keikoproj/keiko/blob/master/presentations/Keiko.pdf)
 * [AWS Community Day](https://www.youtube.com/watch?v=kdSE8r7uzXc&feature=youtu.be&t=1)
