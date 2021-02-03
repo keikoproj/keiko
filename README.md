@@ -54,6 +54,7 @@ As the Keiko Community grows, we'd like to keep track of our users. Please send 
 Currently **officially** using Keiko:
 
 1. [Intuit](https://www.intuit.com/)
+1. [Zendesk](https://www.zendesk.com/)
 
 ## Community Blogs and Presentations
 * [CNCF End User Sig](https://github.com/keikoproj/keiko/blob/master/presentations/Keiko.pdf)
