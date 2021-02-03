@@ -55,6 +55,7 @@ Currently **officially** using Keiko:
 
 1. [Intuit](https://www.intuit.com/)
 1. [Zendesk](https://www.zendesk.com/)
+1. [LegalZoom](https://legalzoom.com)
 
 ## Community Blogs and Presentations
 * [CNCF End User Sig](https://github.com/keikoproj/keiko/blob/master/presentations/Keiko.pdf)
